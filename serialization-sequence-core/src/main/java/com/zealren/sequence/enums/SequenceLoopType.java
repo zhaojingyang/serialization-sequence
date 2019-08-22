@@ -2,7 +2,7 @@ package com.zealren.sequence.enums;
 
 public enum SequenceLoopType {
     NO_LOOP("0", "不循环"), YEAR("1", "year"), MONTH("2", "month"),
-    DAY("3", "day"), MINUTE("3", "minute");
+    DAY("3", "day"), MINUTE("4", "minute");
     private String value;
     private String desc;
 
